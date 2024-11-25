@@ -1,14 +1,12 @@
 # avikalpg
 
-## About
-
 Hi, I'm Avikalp Gupta. I'm a software engineer (with AI/ML expertise) working on building products that help engineers build better products and live better lives.
 
 ### Primary Focus
 
 #### Vibinex: The most intuitive interface for reviewing code changes
 
-[Vibinex](https://vibinex.com) is a tool that helps you understand code changes 10x faster than going through the "git diff".
+[Vibinex](https://vibinex.com) is a tool that helps you understand code changes 10x faster than going through the `git diff`.
 
 As of 2024, it works as a GitHub app and a browser extension and helps you by creating an interactive visual graph representing the changes in the call-graph of the code.
 
@@ -36,5 +34,5 @@ You can get a decent idea about the tech stack that I have used and am proficien
 #### Skills Chart
 
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=avikalpg"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=avikalpg&skills=JavaScript,TypeScript,Go,Python,Kotlin,Java,Rust&show-other-skills=true&width=820"
 />
