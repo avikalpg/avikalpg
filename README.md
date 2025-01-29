@@ -17,7 +17,7 @@ As of 2024, it works as a GitHub app and a browser extension and helps you by cr
 - [typing-analyst](https://typing-analyst.vercel.app): MacOS tool that constantly measures typing speed and accuracy across applications and shows analytics.
 - [free-time](https://myfreetimeinaweek.in): Proves to you that you have enough time to work on your hobby projects and passions; no matter how busy you claim yourself to be.
 - [HustlerIDE](https://marketplace.visualstudio.com/items?itemName=vibinex.hustler): VSCode extension that asks you every day if you have talked to a user or spent any time marketing your project.
-- [Skyline](https://github.com/avikalpg/skyline): Replacement of the, now deprecated, [GitHub Skyline](https://skyline.github.com) project.
+- [Skyline](https://gitskyline.vercel.app): Replacement of the, now deprecated, [GitHub Skyline](https://skyline.github.com) project.
 
 ## Stats
 
