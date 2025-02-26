@@ -1,9 +1,9 @@
 # avikalpg
 ![GitHub User's stars](https://img.shields.io/github/stars/avikalpg?style=for-the-badge&logo=github)
-[![HackerNews User Karma](https://img.shields.io/hackernews/user-karma/avikalp?style=for-the-badge&logo=ycombinator)](https://news.ycombinator.com/user?id=avikalp)
 [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/AvikalpGupta?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/AvikalpGupta/)
+[![HackerNews User Karma](https://img.shields.io/hackernews/user-karma/avikalp?style=for-the-badge&logo=ycombinator)](https://news.ycombinator.com/user?id=avikalp)
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCyK7ZivLTApYvfV3qE4b3DQ?style=for-the-badge&logo=youtube)](https://youtube.com/@avikalp?si=mIfZGQCWUSboN-gJ)
-![Profile views](https://komarev.com/ghpvc/?username=avikalpg&color=0e75b6&style=for-the-badge&label=Views%20%28since%202025%29) 
+![Profile views](https://komarev.com/ghpvc/?username=avikalpg&color=0e75b6&style=for-the-badge&label=Profile%20Views%20%28since%202025%29) 
 
 Hi, I'm Avikalp Gupta. I'm a software engineer (with AI/ML expertise) working on building products that help engineers build better products and live better lives.
 
