@@ -9,16 +9,16 @@ Hi, I'm Avikalp Gupta. I'm a software engineer (with AI/ML expertise) working on
 
 ### Primary Focus
 
-#### Vibinex: The most intuitive interface for reviewing code changes
+#### WildestAI: The understanding layer for AI-generated code changes
 
-[Vibinex](https://vibinex.com) is a tool that helps you understand code changes 10x faster than going through the `git diff`.
-
-As of 2024, it works as a GitHub app and a browser extension and helps you by creating an interactive visual graph representing the changes in the call-graph of the code.
-
-[Link to the source code](https://github.com/vibinex/vibinex)
+[WildestAI](https://wildestai.com) is a `git`-wrapper that unlocks the full potential of AI coding agents.
+- Its diff (DiffGraph) helps you understand code changes 10x faster than going through the `git diff` when working on AI-generated code by creating an interactive visual graph representing the code changes.
+- Its commit captures the prompts as metadata to retain the intent and line-of-thought across the SDLC.
 
 ### Favorite projects
 
+- [Vibinex](https://vibinex.com): GitHub extension that makes code-reviews 5x faster using pull-request personalization, code-owner automation and integrated DiffGraphs. [Link to the source code](https://github.com/vibinex/vibinex)
+- [WhatsApp AI Filter](https://whatsapp-ai-filter.vercel.app): Filters only the relevant messages from all the WhatsApp groups that you are a part of, into a single chat thread saving 95% of the time founders and influencers spend.
 - [Skyline](https://skyline3d.in): View your GitHub contributions in 3D and order your 3D-printed skyline model to decorate your desk.
 - [Alokit mentorship platform](https://alokit.in): Platform to conduct audition projects: short-term paid projects that are compensated based on completion rate.
 - [free-time](https://myfreetimeinaweek.in): Proves to you that you have enough time to work on your hobby projects and passions; no matter how busy you claim yourself to be.
@@ -41,21 +41,5 @@ As of 2024, it works as a GitHub app and a browser extension and helps you by cr
   </picture>
 </a>
 
-### CodersRank
-My [Codersrank profile](https://profile.codersrank.io/user/avikalpg) gives you a decent idea of the tech stack I have used and am proficient with.
-
-<!-- #### Summary
-
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username="
-/> -->
-
-#### Skills Chart
-
-<img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=avikalpg&skills=JavaScript,TypeScript,HTML,CSS,Go,Python,Kotlin,Java,Rust&show-other-skills=true&width=820"
-/>
-
 ### Badges
 ![@avikalpg's Holopin board](https://holopin.me/avikalpg)
-
